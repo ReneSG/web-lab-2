@@ -1,0 +1,23 @@
+.container {
+  font-family: Helvetica;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: .5rem 0;
+}
+
+.subtitle {
+  font-weight: 700;
+  font-size: 1.125rem;
+  margin: .25rem 0;
+}
+
+.content {
+  font-weight: 300;
+}
+
+.contact_info {
+  text-align: center;
+}
